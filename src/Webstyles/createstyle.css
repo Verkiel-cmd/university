@@ -1,0 +1,27 @@
+/* Ensure the body and html take up the full height and have the background color */
+html,
+body {
+  height: 100%;
+  /* Make sure the body and html take the full height */
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+  /* Set the background color */
+}
+
+/* Style the container if needed */
+.container_listud {
+  padding: 10px;
+  /* Adjust padding to make the content fit better */
+  width: 50%;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  /* Optional: adds rounded corners */
+  padding: 20px;
+  /* Optional: adds padding inside the container */
+  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.20);
+  /* Optional: adds a shadow around the form */
+  margin: auto;
+
+
+}
